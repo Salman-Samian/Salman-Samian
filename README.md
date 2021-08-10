@@ -30,8 +30,8 @@
       <h6>
      
 
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React.Js)&nbsp;
+        <h1>![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)&nbsp;</h1>
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React.Js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=FFA518)&nbsp;
