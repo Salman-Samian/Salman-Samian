@@ -4,6 +4,7 @@
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=FFA518)&nbsp;
