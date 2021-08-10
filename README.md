@@ -1,6 +1,6 @@
 ## My Profile
 
-#### I'm a full-stack developer, since starting my career as a software developer just was some high-level language such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks.
+#### Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level language such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks.
 
 #### During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and Ui Ux, on the other hand, I'm so keen on adopting new technologies and new programming languages.
 
