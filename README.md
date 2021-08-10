@@ -22,14 +22,12 @@
     <td valign="top">
       <h3>About me</h3>
       <h6>
-     
+<h1><img src="https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js" /></h1>     
       </h6> 
     </td>
     <td valign="top">
       <h3>### 🛠 &nbsp;Tech Stack</h3>
-      <h6>
-     
-<h1><img src="https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js" /></h1>
+      <h6>           
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React.Js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
