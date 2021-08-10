@@ -1,33 +1,36 @@
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <th class="tg-0lax"></th>
+    <th>My Profile</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">
-      SALMAN
+    <td>      
+      <h3>AboutMe</h3>
+      <code>
+        1
+      </code>
     </td>
   </tr>
   <tr>
-    <td class="tg-0lax">
-      SAMIAN
+    <td>
+      <h3>My Skills</h3>
+      <code>
+        2
+      </code>     
     </td>
   </tr>
 </tbody>
 </table>
 
-<!-- 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+
+
+| ### My Skills   	|
+|:-:	|
+|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
@@ -42,11 +45,13 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;   	|
+
+ 
 
 
 
 
 
 
- -->
+
