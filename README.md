@@ -30,9 +30,11 @@
       <h6>
      
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=nodejs)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=ReactJs)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=Android&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -45,7 +47,6 @@
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&?style=for-the-badge&logo=appveyor&flat&logo=Nodejs&logoColor=white)&nbsp;
       </h6> 
     </td>
   </tr>
