@@ -14,7 +14,7 @@
 
 
 <h4>I always open for cooperation | Write to me: <a href="mailto:salman.samian@gmail.com">Email</a></h4>
-
+<h1><img src="https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js" /></h1>     
 
 <h2>📝 My Profile </h2>
 <table>
@@ -22,7 +22,7 @@
     <td valign="top">
       <h3>About me</h3>
       <h6>
-<h1><img src="https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js" /></h1>     
+asasas
       </h6> 
     </td>
     <td valign="top">
