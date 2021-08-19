@@ -1,4 +1,6 @@
-## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> My Github Profile
+## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
+
+
 
 ##### Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level language such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks.
 
@@ -47,7 +49,7 @@
 
 
 
-
+<img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.mp4">
 
 
 
