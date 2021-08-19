@@ -1,3 +1,8 @@
+
+<img src="https://raw.githubusercontent.com/Salman-Samian/Salman-Samian/main/giphy.gif" width="150">
+
+
+
 ## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
 
 
@@ -48,7 +53,7 @@
 | ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
 
 
-<img src="https://media1.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="55">
+<img src="https://media1.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="150">
 
 
 
