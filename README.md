@@ -48,8 +48,7 @@
 | ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
 
 
-
-<img src="https://media0.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.mp4">
+<img src="https://media1.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="55">
 
 
 
