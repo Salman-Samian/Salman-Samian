@@ -1,4 +1,4 @@
-## My Github Profile
+## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> My Github Profile
 
 ##### Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level language such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks.
 
@@ -39,11 +39,13 @@
 
 
 
-|My Info   	|
+|  My Info   	|
 |:-:	|
-|Check my resume at : https://www.linkedin.com/in/salmansamian/   	|
+|Check my resume at : </br></br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
 |Contact me : +989175585218   	|
 | ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
+
+
 
 
 
