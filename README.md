@@ -59,3 +59,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=4800349)&nbsp;
 ![](https://komarev.com/ghpvc/?username=salman-samian&label=PROFILE+VIEWS)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman-samian)](https://github.com/anuraghazra/github-readme-stats)
