@@ -49,7 +49,7 @@
 | ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
 
 
-
+<!-- ![Top Langs](ht[](url)tps://github-readme-stats.vercel.app/api/top-langs/?username=salman-samian&hide=makefile,perl&theme=dark) -->
 
 
 
