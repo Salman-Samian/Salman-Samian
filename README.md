@@ -40,8 +40,7 @@ carriers. I always try to do my best as a developer or project manager or techni
 ![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;<br/>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;<br/>
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;<br/>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;<br/><br/>
-
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;<br/>
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;<br/>
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;<br/>
 
