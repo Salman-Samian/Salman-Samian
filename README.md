@@ -6,9 +6,9 @@ In the last 14 years, in my profession, I always trying to do my best as a devel
 
 
 ##### I worked remotely with these countries :
-##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, (you can be next✌)
+##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼 (you can be next✌)
 
-##### my English knowledge is good but as usual, I'm always studying English until I fully fill my English knowledge as a native person.
+##### My English skills are good but as usual, I'm always studying English until I fully fill my English knowledge as a native person. 
 
 ##### please check my Github profile https://github.com/Salman-Samian
 
