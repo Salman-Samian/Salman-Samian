@@ -2,7 +2,7 @@
 ## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
 
 Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks. During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and Ui Ux, also I'm so keen on adopting new technologies and new programming languages. In the end, I want to tell you I'm just not a Senior Web Developer which could learn everything about it and specialists at node.js, nest.js, react.js, and next.js, fortunately, cause I have a passion for every programming language such as java and swift I'm specialist with this two lovely language.
-In the last 14 years, in my profession, I always trying to do my best as a developer or project manager or technical assistants
+In the last 14 years, in my profession, I have always tried to do my best as a developer or project manager or technical assistant. 
 
 
 ##### I worked remotely with these countries :
