@@ -34,7 +34,7 @@ carriers. I always try to do my best as a developer or project manager or techni
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;<br/>
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;<br/>
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;<br/>
-![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=for-the-badge&logo=TypeORM)&nbsp;<br/>
+![TypeORM.io](https://img.shields.io/badge/-TypeORM.io-05122A?style=for-the-badge&logo=TypeORM.io)&nbsp;<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;<br/>
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
@@ -44,6 +44,7 @@ carriers. I always try to do my best as a developer or project manager or techni
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;<br/>
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;<br/>
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;<br/>
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;<br/>
 
 
 
