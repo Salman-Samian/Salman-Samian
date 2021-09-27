@@ -34,6 +34,7 @@ carriers. I always try to do my best as a developer or project manager or techni
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;<br/>
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;<br/>
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;<br/>
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=for-the-badge&logo=TypeORM)&nbsp;<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;<br/>
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
