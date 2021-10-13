@@ -47,7 +47,7 @@ In the last 14 years, in my profession, I have always tried to do my best as a d
 |  My Info   	|
 |:-:	|
 |Check my resume at </br></br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
-|Contact me : +989175585218   	|
+|Contact me : salman.samian@gmail.com   	|
 | ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
 
 
