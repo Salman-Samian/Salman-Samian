@@ -1,9 +1,13 @@
 
 ## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
 
-Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks. During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and Ui Ux, also I'm so keen on adopting new technologies and new programming languages. In the end, I want to tell you I'm just not a Senior Web Developer which could learn everything about it and specialists at node.js, nest.js, react.js, and next.js, fortunately, cause I have a passion for every programming language such as java and swift I'm specialist with this two lovely language.
-In the last 14 years, in my profession, I have always tried to do my best as a developer or project manager or technical assistant. 
+Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks. 
+During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and UI/UX, also I'm so keen on adopting new technologies such as blockchain and new programming languages. 
+In the end, I want to tell you I'm just not a senior Web Developer which could learn everything about it and specialists at Node.js, React.js, and Next.js, fortunately, cause I have a passion for Android Java and Swift I'm a specialist with these two lovely languages. 
+I always manage myself in my profession, to do my best as a software developer or project manager.
 
+
+My Github portfolio https://github.com/Salman-Samian
 
 ##### I worked remotely with these countries :
 ##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼 (you can be next✌)
@@ -11,8 +15,6 @@ In the last 14 years, in my profession, I have always tried to do my best as a d
 ##### My English skills are good but as usual, I'm always studying English until I fully fill my English knowledge as a native person. 
 
 ##### please check my Github profile https://github.com/Salman-Samian
-
-
 
 
 
@@ -48,7 +50,7 @@ In the last 14 years, in my profession, I have always tried to do my best as a d
 |:-:	|
 |Check my resume at </br></br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
 |Contact me : salman.samian@gmail.com   	|
-| ### I'm Open to hire and I can relocate : I need Visa Sponsorship   	|
+| ### I'm open to hire for Visa Sponsorship   	|
 
 
 <!-- ![Top Langs](ht[](url)tps://github-readme-stats.vercel.app/api/top-langs/?username=salman-samian&hide=makefile,perl&theme=dark) -->
