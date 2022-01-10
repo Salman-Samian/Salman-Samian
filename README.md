@@ -10,7 +10,7 @@ I always manage myself in my profession, to do my best as a software developer o
 My Github portfolio https://github.com/Salman-Samian
 
 ##### I worked remotely with these countries :
-##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼 (you can be next✌)
+##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪 (you can be next✌)
 
 ##### My English skills are good but as usual, I'm always studying English until I fully fill my English knowledge as a native person. 
 
