@@ -7,7 +7,6 @@ In the end, I want to tell you I'm just not a senior Web Developer which could l
 I always manage myself in my profession, to do my best as a software developer or project manager.
 
 
-My Github portfolio https://github.com/Salman-Samian
 
 ##### I worked remotely with these countries :
 ##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪 (you can be next✌)
