@@ -22,7 +22,7 @@ My Github portfolio https://github.com/Salman-Samian
 ## My Skills
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=007ACC)&nbsp;<br/>
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=007ACC)&nbsp;<br/> <br/>
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;<br/>
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;<br/>
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=for-the-badge&logo=nestjs&&logoColor=red)&nbsp;<br/>
