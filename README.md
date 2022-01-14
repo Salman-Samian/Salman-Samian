@@ -11,9 +11,7 @@ I always manage myself in my profession, to do my best as a software developer o
 ##### I worked remotely with these countries :
 ##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪 (you can be next✌)
 
-##### My English skills are good but as usual, I'm always studying English until I fully fill my English knowledge as a native person. 
 
-##### Please check my LinkedIn profile https://www.linkedin.com/in/salmansamian/
 
 
 
