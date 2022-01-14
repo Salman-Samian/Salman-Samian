@@ -19,27 +19,25 @@ I always manage myself in my profession, to do my best as a software developer o
 
 
 ## My Skills
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=007ACC)&nbsp;<br/> <br/>
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;<br/>
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;<br/>
-![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=for-the-badge&logo=nestjs&&logoColor=red)&nbsp;<br/>
-![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;<br/>
-![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;<br/>
-![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;<br/>
-![TypeORM.io](https://img.shields.io/badge/-TypeORM.io-05122A?style=for-the-badge&logo=TypeORM.io)&nbsp;<br/>
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;<br/>
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=for-the-badge&logo=nestjs&&logoColor=red)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;
+![TypeORM.io](https://img.shields.io/badge/-TypeORM.io-05122A?style=for-the-badge&logo=TypeORM.io)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;<br/>
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;<br/>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;<br/>
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;<br/>
-![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;<br/>
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;<br/>
-![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;<br/>
-![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;<br/>
+![Android](https://img.shields.io/badge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;
+![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;
+
 
 
 
