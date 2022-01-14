@@ -13,7 +13,7 @@ I always manage myself in my profession, to do my best as a software developer o
 
 ##### My English skills are good but as usual, I'm always studying English until I fully fill my English knowledge as a native person. 
 
-##### please check my Github profile https://github.com/Salman-Samian
+##### Please check my LinkedIn profile https://www.linkedin.com/in/salmansamian/
 
 
 
