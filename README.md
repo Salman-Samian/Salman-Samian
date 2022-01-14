@@ -17,6 +17,7 @@ I always manage myself in my profession, to do my best as a software developer o
 
 
 ## My Skills
+![Blockchain](https://img.shields.io/badge/-Blockchain.com-05122A?style=for-the-badge&logo=Blockchain.com)&nbsp;<br/>
 ![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
