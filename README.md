@@ -1,10 +1,13 @@
 
 ## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
 
-Hello, my name is Salman Samian, I'm a full-stack developer, since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks. 
-During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and UI/UX, also I'm so keen on adopting new technologies such as blockchain and new programming languages. 
-In the end, I want to tell you I'm just not a senior Web Developer which could learn everything about it and specialists at Node.js, React.js, and Next.js, fortunately, cause I have a passion for Android Java and Swift I'm a specialist with these two lovely languages. 
-I always manage myself in my profession, to do my best as a software developer or project manager.
+Hello, my name is Salman Samian, I'm a full-stack developer (Backend development experience including TypeScript, C# and JAVA), since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks.
+During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and UI/UX, also I'm so keen on adopting new technologies such as blockchain and new programming languages.
+In the end, I want to tell you I'm just not a senior Web Developer which could learn everything about it and specialists at Node.js, React.js, and Next.js, fortunately, cause I have a passion for Android Java and Swift I'm a specialist with these two lovely languages.
+I always manage myself in the projects which I do involve I try to use test techniques such as TDD, to do my best as a software developer or project manager.
+I know how to handle and scale a cloud tech stack: TypeScript, JavaScript, Node.js,
+Mongo/MySQL, Heroku, Vercel.
+I love complex challenges, and I know how to evaluate solutions and how to choose the right one based on my experience and clever decision making with the team.
 
 
 
