@@ -39,6 +39,7 @@ I always manage myself in my profession, to do my best as a software developer o
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;<br/>
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;<br/>
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;<br/>
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;<br/>
 
 
 
