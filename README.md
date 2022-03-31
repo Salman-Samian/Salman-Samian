@@ -51,7 +51,7 @@ I love complex challenges, and I know how to evaluate solutions and how to choos
 |:-:	|
 |Check my resume at </br></br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
 |Contact me : salman.samian@gmail.com   	|
-| ### I'm open to hire for Visa Sponsorship   	|
+
 
 
 <!-- ![Top Langs](ht[](url)tps://github-readme-stats.vercel.app/api/top-langs/?username=salman-samian&hide=makefile,perl&theme=dark) -->
