@@ -20,9 +20,8 @@ Experience with tools like Visual Studio, VS Code, Google Cloud, Azure DevOps, A
 Proficient in code versioning tools such as Git
 
 
-
 ##### I worked remotely with these countries :
-##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪 (you can be next✌)
+##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪
 
 
 
