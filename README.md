@@ -61,8 +61,8 @@ I love complex challenges, and I know how to evaluate solutions and how to choos
 
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<img src="https://media1.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="150">
+<!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<img src="https://media1.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" width="150"> -->
 
 
 ![](https://hit.yhype.me/github/profile?user_id=4800349)&nbsp;
