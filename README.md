@@ -3,6 +3,8 @@
 
 Hello, my name is Salman Samian, I'm a senior full-stack developer (Backend development experience including TypeScript, C#, and JAVA), since starting my career as a software developer just was some high-level languages such as VB and QBasic, but now, every day we face a new course of programming action of a new language or framework, some of them we call libraries and others which are important are frameworks. 
 During these years, I worked with lots of employers and employees with different personalities and they taught me lots of things and experiences such as project management and UI/UX, also I'm so keen on adopting new technologies such as blockchain and new programming languages, I love complex challenges, and I know how to evaluate solutions and how to choose the right one based on my experiences. I always focus on user-centricity and pragmatism, understanding the strengths and constraints of each technology.
+Experienced with tools like Visual Studio, VS Code, Google Cloud, Firebase, AWS, NPM, WebPack, TSLint, Jest, Heroku, and Vercel, and experienced in code versioning tools such as Git commands and GitHub Actions.
+
 
 My skills : 
 Knowledge of functional and object-oriented programming
@@ -22,8 +24,6 @@ Proficient in code versioning tools such as Git
 
 ##### I worked remotely with these countries :
 ##### 🇨🇦, 🇬🇧, 🇸🇪, 🇮🇷, 🇹🇷, 🇹🇼, 🇩🇪
-
-
 
 
 
