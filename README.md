@@ -62,10 +62,11 @@ Proficient in code versioning tools such as Git
 |Contact me : salman.samian@gmail.com   	|
 
 
-|:-:	|
-|Check my codementor at </br></br> ](https://www.codementor.io/salman)   	|
-|My Codementor id : @Salman   	|
 
+|  My Codementor   	|
+|:-:	|
+|(https://www.linkedin.com/in/salmansamian/)|
+|My Codementor id : @Salman|
 
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="salmansamian" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/salmansamian?trk=profile-badge">Salman S.</a></div>
