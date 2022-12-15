@@ -65,7 +65,7 @@ Proficient in code versioning tools such as Git
 
 |  My Codementor   	|
 |:-:	|
-|(https://www.linkedin.com/in/salmansamian/)|
+|https://www.codementor.io/@salman|
 |My Codementor id : @Salman|
 
 
