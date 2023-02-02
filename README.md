@@ -63,7 +63,7 @@ Proficient in code versioning tools such as Git
 
 
 
-|  My Codementor   	|
+|  Hier me on Codementor   	|
 |:-:	|
 |https://www.codementor.io/@salman|
 |My Codementor id : @Salman|
