@@ -33,7 +33,6 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 ![Android](https://img.shields.io/badpge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](htts://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;
 ![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;
