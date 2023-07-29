@@ -52,7 +52,8 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 
 |  Hier me on Codementor   	|
 |:-:	|
-|[![Contact me on Codementor](https://www.codementor.io/m-badges/salman/contact-me.svg)](https://www.codementor.io/@salman?refer=badge)]|
+|[![Contact me on Codementor](https://www.codementor.io/m-badges/salman/contact-me.svg)](https://www.codementor.io/@salman?refer=badge)|
+|https://www.codementor.io/@salman|
 |My Codementor id : @Salman|
 
 
