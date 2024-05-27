@@ -11,7 +11,7 @@ Experienced with Visual Studio, Visual Studio Code, Android Studio, Adobe Photos
 
 
 My skills : 
-Knowledge of object-oriented programming, C#, Native Android Java, NodeJS, ReactJS, NextJS, Redux, MongoDB, My SQL, MS SQL Server
+Knowledge of object-oriented programming, React Native, Android, Swift iOS, ReactJS, NextJS, Redux, MongoDB, My SQL, MS SQL Server
 Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and some special front-end libraries such as TailwindCSS and Ant Design and Material UI, also have experience in Blockchain tech stack.
 
 
