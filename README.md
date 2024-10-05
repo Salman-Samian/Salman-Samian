@@ -14,7 +14,7 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 
 
 ## My Skills
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-05122A?logo=react&logoColor=61DAFB&style=for-the-badge)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -26,17 +26,6 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;
 ![TypeORM.io](https://img.shields.io/badge/-TypeORM.io-05122A?style=for-the-badge&logo=TypeORM.io)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;
-
-![Blockchain](https://img.shields.io/badge/-Blockchain.com-05122A?style=for-the-badge&logo=Blockchain.com)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=for-the-badge&logo=Ethereum)&nbsp;
-![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;
-
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-
-![Android](https://img.shields.io/badpge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;
-![Swift](https://img.shields.io/badpge/-Swift-05122A?style=for-the-badge&logo=Swift&logoColor=lightgreen)&nbsp;
-
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)&nbsp;
 
