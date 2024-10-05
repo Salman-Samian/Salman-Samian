@@ -14,28 +14,31 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 
 
 ## My Skills
-![Blockchain](https://img.shields.io/badge/-Blockchain.com-05122A?style=for-the-badge&logo=Blockchain.com)&nbsp;
-![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=for-the-badge&logo=Ethereum)&nbsp;
-![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=for-the-badge&logo=Next.js)&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-ReactJs-05122A?style=for-the-badge&logo=React)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-05122A?style=for-the-badge&logo=nestjs&&logoColor=red)&nbsp;
 ![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=for-the-badge&logo=Mongodb)&nbsp;
 ![TypeORM.io](https://img.shields.io/badge/-TypeORM.io-05122A?style=for-the-badge&logo=TypeORM.io)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
-![Android](https://img.shields.io/badpge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=for-the-badge&logo=Socket.io)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=for-the-badge&logo=rabbitmq)&nbsp;
-![Strapi](https://img.shields.io/badge/-Strapi-05122A?style=for-the-badge&logo=Strapi)&nbsp;
 
+![Blockchain](https://img.shields.io/badge/-Blockchain.com-05122A?style=for-the-badge&logo=Blockchain.com)&nbsp;
+![Ethereum](https://img.shields.io/badge/-Ethereum-05122A?style=for-the-badge&logo=Ethereum)&nbsp;
+![Web3.js](https://img.shields.io/badge/-Web3.js-05122A?style=for-the-badge&logo=Web3.js)&nbsp;
 
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=for-the-badge&logo=csharp)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518)&nbsp;
 
+![Android](https://img.shields.io/badpge/-Android-05122A?style=for-the-badge&logo=Android&logoColor=lightgreen)&nbsp;
+![Swift](https://img.shields.io/badpge/-Swift-05122A?style=for-the-badge&logo=Swift&logoColor=lightgreen)&nbsp;
+
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)&nbsp;
 
 
 
