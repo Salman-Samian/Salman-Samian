@@ -1,14 +1,11 @@
 
 ## <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45"> My Github Profile
 
-Hello, my name is Salman, I'm a senior full-stack developer (Back-end & Front-end)
+Hi, I am Salman Samian, a senior front-end developer. since 2018, I have worked extensively with React.js, Next.js, Tailwind, and React Native to build exceptional mobile and web applications. I am also proficient in TypeScript, which I have used in my front-end projects.
 
-I love complex challenges, and I know how to evaluate solutions and how choose the right one based on project requirements. 
+As someone who enjoys taking on complex challenges, I am able to evaluate solutions and select the most effective ones based on my extensive experience.
 
-I always focus on user-centricity and pragmatism, understanding the strengths and constraints of each technology.
-
-Experienced with Visual Studio, Visual Studio Code, Android Studio, Adobe Photoshop, Google Cloud, Firebase, Amazon AWS, NPM packages, Heroku & Vercel, and experienced in code versioning tools such as GitHub and GitLab using git commands.
-
+My development approach focuses on usability and practicality, always keeping in mind the strengths and limitations of each technology. I have experience working with a variety of development tools, including VS Code, Google Cloud, Firebase services, and AWS services.
 
 My skills : 
 Knowledge of object-oriented programming, React Native, Android, Swift iOS, ReactJS, NextJS, Redux, MongoDB, My SQL, MS SQL Server
