@@ -29,5 +29,5 @@ Working with Three.js, Vite, Redux-Toolkit, REST APIs, Authentication APIs, and 
 |  My Info   	|
 |:-:	|
 |Check my resume on </br></br> [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmansamian/)   	|
-|Check my online resume on </br></br> <a href="https://salman-resume.vercel.app/">Online Resume</a>   	|
+|Check my online resume on </br></br> <a href="https://salman-resume.vercel.app/">HERE</a>   	|
 |Contact me : salman.samian@gmail.com   	|
